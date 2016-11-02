@@ -1,0 +1,97 @@
+Hola amigos lo que haremos en este artículo&nbsp;es aprender a el tipo de documento que vamos a crear y las etiquetas de texto.<br />
+Como ya les explique anteriormente existe el HTML5, XHTML y HTML4 y todo como tal y como estamos en el curso de html5 tenemos que añadir el siguiente código al inicio de nuestro archivo .html<br />
+<br />
+&lt;!DOCTYPE html&gt;<br />
+<br />
+<b>¿Por que &lt;!DOCTYPE&nbsp;html&gt;?</b>, con esta linea de código le estamos diciendo al navegador que este archivo tiene un código de HTML5.<br />
+tu documento se vería de la siguiente manera:<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-d-zlaUaEtfo/WA7aIY4ya-I/AAAAAAAAAGo/G_yomz0fbD0A_d9k94UfU-NWxU60pItHACLcB/s1600/2.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-d-zlaUaEtfo/WA7aIY4ya-I/AAAAAAAAAGo/G_yomz0fbD0A_d9k94UfU-NWxU60pItHACLcB/s1600/2.PNG" /></a></div>
+<br />
+<br />
+<h2>
+<b><u>ETIQUETAS DE TEXTO.</u></b></h2>
+<h4>
+<b>ETIQUETAS DE TITULO: </b><span style="font-weight: normal;">Tenemos 6 etiquetas de titulo &lt;h1&gt;&lt;/h1&gt;,&nbsp;</span><span style="font-weight: normal;">&lt;h2&gt;&lt;/h2&gt;, &lt;h3&gt;&lt;/h3&gt;, &lt;h4&gt;&lt;/h4&gt;, &lt;h5&gt;&lt;/h5&gt; ,&lt;h6&gt;&lt;/h6&gt;.</span></h4>
+<div>
+veamos la diferencia entre ellos, para ello debes copiar el siguiente código en tu archivo .html:<br />
+<br />
+<span style="color: #0b5394;">&lt;!DOCTYPE html&gt;</span><br />
+<span style="color: #0b5394;">&lt;html&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;head&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;title&gt;mi primera web&lt;/title&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;/head&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;body&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;titulo con h1&lt;/h1&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;h2&gt;titulo con h2&lt;/h2&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;h3&gt;titulo con h3&lt;/h3&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;h4&gt;titulo con h4&lt;/h4&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;h5&gt;titulo con h5&lt;/h5&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;h6&gt;titulo con h6&lt;/h6&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;/body&gt;</span><br />
+<span style="color: #0b5394;">&lt;/html&gt;</span><br />
+<span style="color: #0b5394;"><br /></span>
+El resultado al hacer doble clic en el archivo seria el siguiente.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://2.bp.blogspot.com/-69LdBL4Jj6Q/WA7jr7v3M3I/AAAAAAAAAG4/O1VWXTAYF-EOGMJvnVBxujgCG045oh8zACLcB/s1600/Captura.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://2.bp.blogspot.com/-69LdBL4Jj6Q/WA7jr7v3M3I/AAAAAAAAAG4/O1VWXTAYF-EOGMJvnVBxujgCG045oh8zACLcB/s320/Captura.PNG" width="319" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<h4>
+<b>ETIQUETAS DE PÁRRAFO: </b><span style="font-weight: normal;">La etiqueta&nbsp;de párrafo&nbsp;es la siguiente.</span></h4>
+<div>
+<span style="color: #0b5394;">&nbsp;&lt;p&gt;&nbsp;&lt;/p&gt;</span></div>
+<div>
+bueno esta etiqueta es similar a las etiquetas anteriores pero es la mas adecuada para usarla &nbsp;en párrafos, este código es un ejemplo.<br />
+<br />
+<span style="color: #0b5394;">&lt;!DOCTYPE html&gt;</span><br />
+<span style="color: #0b5394;">&lt;html&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;head&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;title&gt;mi primera web&lt;/title&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;/head&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;body&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora in perferendis laboriosam eum odit fugit obcaecati..&lt;/p&gt;</span><br />
+<br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;/body&gt;</span><br />
+<span style="color: #0b5394;">&lt;/html&gt;</span><br />
+<span style="color: #0b5394;"><br /></span>
+Bien ahora vamos a entrar a ver la etiqueta que no falta en pagina web esta etiqueta es<br />
+<br />
+&lt;a href="" &gt;&lt;/a&gt;<br />
+esta etiqueta sirve para direccionamiento a un link también conocido como enlaces, esta etiqueta &lt;a&gt;&lt;/a&gt; tiene un atributo que es href gracias a este podrá hacer su función correctamente bueno no vamos a entrar en mas detalle sobre las etiquetas y atributos porque esto ya lo vimos en el artículo&nbsp;anterior.<br />
+<br />
+Gracias a esta etiqueta puedes pasar de pagina en pagina o también hacer un direccionamiento a un link ejemplo a www.facebook.com.<br />
+ejemplos de codigos:<br />
+<br />
+1.- &nbsp;&lt;a href="otroarchivo.html" &gt; has clic aquí&lt;/a&gt;<br />
+2.- &nbsp;&lt;a href="www.facebook.com" &gt; facebook&lt;/a&gt;<br />
+<br />
+El resultado del ejemplo 2 seria:&nbsp;<span style="color: blue;"><a href="https://www.facebook.com/groups/1743114325973200/?fref=ts#">facebook</a>, </span>no uso el primer caso ya que no tengo creado un archivo llamado otroarchivo.html.<br />
+<a href="https://www.blogger.com/www.facebook.com"><br /></a>
+
+<br />
+<h4 style="background-color: #f9f9f9; border: none; color: #232323; font-family: arial, helvetica, sans-serif; font-size: 14px; font-stretch: normal; font-weight: normal; line-height: 1.125em; list-style: none; margin: 0px 0px 1.125em; outline: none; padding: 0px;">
+Bueno eso es todo espero que te aya gustado el artículo&nbsp;y ya saben para no perderte ninguno únete a nosotros en el grupo de facebook que allí se estará subiendo todos los artículo&nbsp;de esta página web.</h4>
+</div>
+</div>
+<div id="fb-root">
+</div>
+<br />
+<div id="fb-root">
+</div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<br />
+<div class="fb-share-button" data-href="http://goodcodeab.blogspot.com/2016/10/fundamentos-basicos-de-html5-parte-2.html" data-layout="button_count" data-mobile-iframe="true" data-size="large">
+<a class="fb-xfbml-parse-ignore" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fgoodcodeab.blogspot.com%2F2016%2F10%2Ffundamentos-basicos-de-html5-parte-2.html&amp;src=sdkpreparse" target="_blank">Compartir</a></div>
+<a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;"><img src="https://3.bp.blogspot.com/-1dcw6IXgJ4I/WAm2bzzz5HI/AAAAAAAAAFM/4qEy9z3TnCYjbVpICG8QHs2eGqJS2lFoQCLcB/s1600/fa.PNG" /></a><br />
+<span style="font-weight: bold;">GRUPO DE FACEBOOK:&nbsp;</span><a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;">&lt;codeAB&gt; programación y más</a><br />
+<br />
+<div style="text-align: center;">
+<span style="color: #38761d;"><a href="http://goodcodeab.blogspot.pe/2016/10/fundamentos-basicos-de-html5.html">&lt;--- Artículo anterior</a></span> &nbsp;- &nbsp; - &nbsp;- &nbsp;<span style="color: #0b5394;"><a href="http://goodcodeab.blogspot.pe/2016/10/fundamentos-basicos-de-html5-parte-3.html" target="_blank">Siguiente artículo---&gt;</a></span></div>
+<br />

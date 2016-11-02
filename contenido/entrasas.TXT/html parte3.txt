@@ -1,0 +1,132 @@
+<h4>
+Hola amigos lo que haremos hoy en este artículo&nbsp;es aprender a insertar imágenes en HTML5.</h4>
+<div>
+Ahora tocaremos el tema de imágenes en nuestra pagina web, ya que este objeto por así decirlo es indispensable para que nuestra web sea mas llamativo agradable y dar un mejor mensaje de lo que queremos transmitir.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://4.bp.blogspot.com/-ek8XkmMJjkI/WBXmnotJpgI/AAAAAAAAAH4/fNiGLY92_vcYByXq4kYTiERJKOc5CC4WQCLcB/s1600/ijh.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-ek8XkmMJjkI/WBXmnotJpgI/AAAAAAAAAH4/fNiGLY92_vcYByXq4kYTiERJKOc5CC4WQCLcB/s1600/ijh.PNG" /></a></div>
+<br /></div>
+<div>
+<br /></div>
+<div>
+para ello utilizaremos la etiqueta IMG, esta etiqueta tiene dos atributos muy importantes el SRC y ALT, pero también tiene otros atributos que agregaremos en el ejemplo.</div>
+<div>
+<br /></div>
+<div>
+<b>ETIQUETA IMG:</b></div>
+<div>
+<br /></div>
+<div>
+<b><span style="color: #38761d;">&lt;img src="link" alt="" title=""&gt;</span></b></div>
+<div>
+<br /></div>
+<div>
+Como ven esta etiqueta no tiene cierre como las demás etiquetas que vimos en los artículos anteriores de este blog pero esta etiqueta si tiene contenido pero ¿cómo lo llamo?, lo llamamos en el atributo SRC.</div>
+<div>
+<b>ATRIBUTOS DE LA ETIQUETA IMG:</b></div>
+<div>
+<br /></div>
+<div>
+<b><i>SRC:</i></b> En este atributo se coloca la dirección donde se encuentra la imagen. o también se puede colocar un link de una imagen sacada de Internet.</div>
+<div>
+<br /></div>
+<div>
+ejemplos:</div>
+<div>
+1.- Si &nbsp;vamos a usar una imagen de una carpeta de nuestro proyecto seria de la siguiente forma:</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-zj5eC-30ArM/WBXbrLs8kKI/AAAAAAAAAHI/aKGWHIZfoB8_kbWJx6TL3u8-HlVzEmzUgCLcB/s1600/direccion.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="110" src="https://1.bp.blogspot.com/-zj5eC-30ArM/WBXbrLs8kKI/AAAAAAAAAHI/aKGWHIZfoB8_kbWJx6TL3u8-HlVzEmzUgCLcB/s320/direccion.PNG" width="320" /></a></div>
+<div>
+<br /></div>
+<div>
+<b><span style="color: #0b5394;">&lt;img src="imagenes/descarga.jpg"&gt;</span></b></div>
+<div>
+<br /></div>
+<div>
+2.- Si usamos un link de Internet seria de la siguiente forma:</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-64edCpDcHAg/WBXcwvFp5SI/AAAAAAAAAHQ/joNvHD9qKt8QSP16iKYKDjd8WgaISQvdQCLcB/s1600/g.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="221" src="https://1.bp.blogspot.com/-64edCpDcHAg/WBXcwvFp5SI/AAAAAAAAAHQ/joNvHD9qKt8QSP16iKYKDjd8WgaISQvdQCLcB/s320/g.PNG" width="320" /></a></div>
+<div>
+Para usar de esta forma devemos copiar la url de la imagen asi como se muestra.</div>
+<div>
+<b><span style="color: #0b5394;">&lt;img src="http://fmdos.cl/wp-content/uploads/2015/10/amigos-inseparables-el-perrito-y-el-gatito-kitten-and-puppy-cute-friends-1920x1200-.jpg"&gt;.</span></b></div>
+<div>
+<br /></div>
+<div>
+<b><i>ALT</i></b>: En este atributo se coloca un texto alternativo que se mostrara si en caso el navegador no encuentre la imagen. si deseas puedes probar copiando el código y poniendo una url invalida.</div>
+<div>
+<br /></div>
+<div>
+ejemplo:</div>
+<div>
+<b><span style="color: #0b5394;">&lt;img src="imagenes/noExisto.jpg" alt="perrito"&gt;</span></b></div>
+<div>
+resultado:</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-y6aOa44-2GY/WBXff6rTvwI/AAAAAAAAAHc/uS30C9PM4ug4Q3sepQTytOU9BmXU_2sfACLcB/s1600/Captura.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-y6aOa44-2GY/WBXff6rTvwI/AAAAAAAAAHc/uS30C9PM4ug4Q3sepQTytOU9BmXU_2sfACLcB/s1600/Captura.PNG" /></a></div>
+<div>
+<br /></div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: left;">
+<b><i>TITLE:</i></b> Esta etiqueta sirve para proporcionar información adicional el efecto es notable al pasar el mouse por encima de la imagen.</div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: left;">
+ejemplo:</div>
+<div class="separator" style="clear: both; text-align: left;">
+<span style="color: #0b5394;"><b>&lt;img src="imagenes/descarga.jpg" alt="paisaje" title="soy texo adicional del paisaje" &gt;</b></span></div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: left;">
+resultado:</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-mwnsjbxDAus/WBXhia5hBCI/AAAAAAAAAHo/zVcvjtAKuTQc0ETyEELD95_VQxAXVlA9wCLcB/s1600/j.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-mwnsjbxDAus/WBXhia5hBCI/AAAAAAAAAHo/zVcvjtAKuTQc0ETyEELD95_VQxAXVlA9wCLcB/s1600/j.PNG" /></a></div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: left;">
+De esta manera se inserta imagen en nuestra pagina web, hay mas atributos para la etiqueta &lt;img&gt; como width, height pero no los tocaremos ya que pienso que eso esta mas relacionado con css.</div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: left;">
+Bueno les dejo el código de la primera imagen para que lo copien.</div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b>&lt;!DOCTYPE html&gt;</b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b>&lt;html lang="es"&gt;</b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b>&lt;head&gt;</b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b>&nbsp; &nbsp; &lt;title&gt;mi primera página web&lt;/title&gt;</b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b>&lt;/head&gt;</b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b>&lt;body&gt;</b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b>&lt;h1&gt;Mi Página Web Con imágenes&lt;/h1&gt;</b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b><br /></b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b>&lt;img src="imagenes/descarga.jpg" alt="paisaje" title="soy texo adicional del paisaje" &gt;</b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b><br /></b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b>&lt;img src="http://fmdos.cl/wp-content/uploads/2015/10/amigos-inseparables-el-perrito-y-el-gatito-kitten-and-puppy-cute-friends-1920x1200-.jpg" alt="perrito" title="perrirto" width="300px" height="168px"&gt;.</b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b>&lt;/body&gt;</b></span></div>
+<div class="separator" style="clear: both;">
+<span style="color: #0b5394;"><b>&lt;/html&gt;</b></span></div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<h4 style="background-color: #f9f9f9; border: none; color: #232323; font-family: arial, helvetica, sans-serif; font-size: 14px; font-stretch: normal; font-weight: normal; line-height: 1.125em; list-style: none; margin: 0px 0px 1.125em; outline: none; padding: 0px;">
+Bueno eso es todo espero que te aya gustado el articulo y ya saben para no perderte ninguno únete a nosotros en el grupo de facebook que allí se estará subiendo todos los artículos de esta página web.</h4>
+<a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;"><img src="https://3.bp.blogspot.com/-1dcw6IXgJ4I/WAm2bzzz5HI/AAAAAAAAAFM/4qEy9z3TnCYjbVpICG8QHs2eGqJS2lFoQCLcB/s1600/fa.PNG" /></a><br />
+<span style="font-weight: bold;">GRUPO DE FACEBOOK:&nbsp;</span><a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;">&lt;codeAB&gt; programación y más</a><br />
+<br />
+<div style="text-align: center;">
+<span style="color: #38761d;"><a href="http://goodcodeab.blogspot.pe/2016/10/fundamentos-basicos-de-html5-parte-2.html">&lt;--- artículo anterior</a></span> &nbsp;- &nbsp; - &nbsp;- &nbsp;<span style="color: #0b5394;"><a href="http://goodcodeab.blogspot.pe/2016/11/fundamentos-basicos-de-html5-parte-4.html" target="_blank">Siguiente artículo---&gt;</a></span></div>
+<br />

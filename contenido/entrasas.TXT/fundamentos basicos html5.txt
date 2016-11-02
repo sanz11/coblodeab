@@ -1,0 +1,136 @@
+<h3>
+<span style="color: #073763; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><u>
+¿QUE ES HTML?&nbsp;</u></span></h3>
+<h4>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">
+Es un lenguaje de etiquetas que se utiliza para desarrollar páginas de Internet. html es la abreviación de HyperText Markup Language, que en español seria, Lenguaje de Marcas de Hipertexto.</span></h4>
+<div>
+<h4>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Para empezar a programar en HTML necesitaremos lo siguiente:</span></h4>
+<h4>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">UN NAVEGADOR: <span style="font-weight: normal;"><i>El navegador puede ser &nbsp;Internet Explorer, Mozilla Firefox, Google Chrome,&nbsp;</i></span></span><i style="font-family: arial, helvetica, sans-serif; font-weight: normal;">Safari,&nbsp;</i><i style="font-family: arial, helvetica, sans-serif; font-weight: normal;">Opera.</i></h4>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-TBVQqIxHsdY/WAqA_RVBT_I/AAAAAAAAAGA/6y7LF9DW3zAUOYcHMux_C_0cmozgleJAQCLcB/s1600/navegadores-internet.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-TBVQqIxHsdY/WAqA_RVBT_I/AAAAAAAAAGA/6y7LF9DW3zAUOYcHMux_C_0cmozgleJAQCLcB/s1600/navegadores-internet.png" /></a></div>
+<div>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-weight: normal;"><i><br /></i></span></span></div>
+<h4>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">EDITOR DE CÓDIGO: <span style="font-weight: normal;"><i>En editores de códigos tenemos muchos ejemplo: Sublime Text. Notepad++, Atom, Brackets o también podemos hacerlo en Bloc de notas.</i></span></span></h4>
+<h4>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-weight: normal;"><i>Puedes usar el editor que tu desees en mi caso usare Brackets, me g</i></span></span><i style="font-family: Arial, Helvetica, sans-serif; font-weight: normal;">usta porque me permite trabajar directamente en el navegador editando el código al instante.</i></h4>
+</div>
+<div>
+<i style="font-family: Arial, Helvetica, sans-serif; font-weight: normal;">BUENO EMPECEMOS.</i></div>
+<div>
+<i style="font-family: arial, helvetica, sans-serif;"><b><br /></b></i></div>
+<div>
+<b>¿QUE ES UN ELEMENTO HTML?</b></div>
+<div>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><i>Un elemento HTML esta compuesto por &nbsp;3 elementos.</i></span></div>
+<div>
+<ol>
+<li><i style="font-family: arial, helvetica, sans-serif;">1. Etiqueta de apertura.</i></li>
+<li><i style="font-family: arial, helvetica, sans-serif;">2. Contenido</i></li>
+<li><i style="font-family: arial, helvetica, sans-serif;">3. Etiqueta de cierre.</i></li>
+</ol>
+</div>
+<div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://4.bp.blogspot.com/-sVGx17VMzxQ/WApyVCJ5ERI/AAAAAAAAAFg/IYh46eMgcWsznfCnCygK8OupaNvz_hDAgCLcB/s1600/et.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-sVGx17VMzxQ/WApyVCJ5ERI/AAAAAAAAAFg/IYh46eMgcWsznfCnCygK8OupaNvz_hDAgCLcB/s1600/et.PNG" /></a></div>
+<i style="font-family: Arial, Helvetica, sans-serif; font-weight: normal;"><br /></i></div>
+<div>
+<i style="font-family: Arial, Helvetica, sans-serif; font-weight: normal;"><br /></i>
+<br />
+<div>
+<b>¿QUE ES UN ATRIBUTO HTML?</b></div>
+<div>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><i>Es un ente que proporciona&nbsp;información&nbsp;adicional de un elemento y siempre se escribe dentro de la &nbsp;etiqueta de apertura antes de cerrar con "&gt;".</i></span><br />
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><i><br /></i></span>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-t44ajoDfxas/WAp17WugXNI/AAAAAAAAAFo/m1b8zdOUm-Y1C1ISP7UTLJ55fTOk-Z6AwCLcB/s1600/artei.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-t44ajoDfxas/WAp17WugXNI/AAAAAAAAAFo/m1b8zdOUm-Y1C1ISP7UTLJ55fTOk-Z6AwCLcB/s1600/artei.PNG" /></a></div>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><i><br /></i></span>
+<br />
+<h3>
+<span style="color: #073763; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><u>ESTRUCTURA BASICA DE HTML5</u></span></h3>
+<div>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><i>La estructura HTML5 esta conformado por las siguientes etiquetas</i></span></div>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><b>&nbsp;&lt;html&gt; <span style="color: #38761d;">----&gt;</span></b></span><i style="font-family: arial, helvetica, sans-serif;">&nbsp;Esta etiqueta abarca todo el contenido y hay dos grupos grandes dentro de esta etiqueta.</i><br />
+<div>
+<b style="font-family: arial, helvetica, sans-serif;">&nbsp;&lt;head&gt;&nbsp;<span style="color: #38761d;">----&gt;&nbsp;</span></b><i style="font-family: arial, helvetica, sans-serif;">&nbsp;Esta etiqueta se encuentra dentro del la etiqueta &lt;body&gt;, en esta etiqueta se hace el llamado al CSS, JavaScript y el titulo de la pagina, en esta parte va todo lo que no se muestra en el navegador.</i></div>
+<div>
+<b style="font-family: arial, helvetica, sans-serif;">&nbsp;&lt;title&gt;&nbsp;<span style="color: #38761d;">----&gt;</span></b><i style="font-family: arial, helvetica, sans-serif;">&nbsp;Esta etiqueta esta en dentro de la etiqueta &lt;head&gt; y es el titulo de la pagina.</i></div>
+<div>
+<b style="font-family: arial, helvetica, sans-serif;">&lt;body&gt;&nbsp;<span style="color: #38761d;">----&gt;</span></b><i><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp;Esta etiqueta es el cuerpo y todo lo que contenga este se&nbsp;mostrara&nbsp;en el navegador.</span></i></div>
+<div>
+<i><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span></i></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://4.bp.blogspot.com/-r6t-TEzUyW4/WAp7cS1PVFI/AAAAAAAAAF0/pt6IyvzzaK89905e74fIaMccNqnAZAbFwCLcB/s1600/j.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-r6t-TEzUyW4/WAp7cS1PVFI/AAAAAAAAAF0/pt6IyvzzaK89905e74fIaMccNqnAZAbFwCLcB/s1600/j.PNG" /></a></div>
+<div>
+<i><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span></i></div>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><b><u>Bien, ahora es tu turno.</u></b></span><br />
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><b><u><br /></u></b></span>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Abre tu editor y crea un archivo nuevo y copia el siguiente&nbsp;código</span><br />
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span>
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&lt;html&gt;</span><br />
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp; &nbsp;</span><br />
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp; &nbsp; &lt;head&gt;</span><br />
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;title&gt;mi primera página web&lt;/title&gt;</span><br />
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp; &nbsp; &lt;/head&gt;</span><br />
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp; &nbsp;&nbsp;</span><br />
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp; &nbsp; &lt;body&gt;</span><br />
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;CONTENIDO ---&gt; HOLA MUNDO&lt;/h1&gt;</span><br />
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp; &nbsp; &lt;/body&gt;</span><br />
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&lt;/html&gt;</span><br />
+<br />
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Ahora&nbsp;guárdalo&nbsp;con el nombre que quieras pero eso si tiene que terminar en la&nbsp;extensión&nbsp;</span><span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">.html</span><br />
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span>
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">EJEMPLO:</span><br />
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-mF72TFW-NLU/WAp8rQ0pm8I/AAAAAAAAAGE/m4xPpgEXn5MCEFqrVQEVeSTnllzyneP_wCEw/s1600/Captura.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="322" src="https://1.bp.blogspot.com/-mF72TFW-NLU/WAp8rQ0pm8I/AAAAAAAAAGE/m4xPpgEXn5MCEFqrVQEVeSTnllzyneP_wCEw/s400/Captura.PNG" width="400" /></a></div>
+<span style="color: #0b5394; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span>
+<br />
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Ahora buscas donde lo guardaste y lo abres con un navegador en este caso lo&nbsp;abrí&nbsp;con Crome. y ahora se vera&nbsp;así.</span><br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://4.bp.blogspot.com/-nrfucz5I1IM/WAp_ISZhLlI/AAAAAAAAAF8/NBljxjqaLNAQs33z2FkpFCucbzI2ZNbfQCLcB/s1600/f.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-nrfucz5I1IM/WAp_ISZhLlI/AAAAAAAAAF8/NBljxjqaLNAQs33z2FkpFCucbzI2ZNbfQCLcB/s1600/f.PNG" /></a></div>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Bueno eso es todo espero que te aya gustado el articulo y ya saben&nbsp;</span><br />
+<h4 style="background-color: #f9f9f9; border: none; color: #232323; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-stretch: normal; font-weight: normal; line-height: 1.125em; list-style: none; margin: 0px 0px 1.125em; outline: none; padding: 0px;">
+para no perderte ninguno únete a nosotros en el grupo de facebook que allí se estará subiendo todos los artículos de esta página web.</h4>
+<div id="fb-root">
+</div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<br />
+<div class="fb-share-button" data-href="http://goodcodeab.blogspot.pe/2016/10/fundamentos-basicos-de-html5.html" data-layout="button_count" data-mobile-iframe="true" data-size="large">
+<a class="fb-xfbml-parse-ignore" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fgoodcodeab.blogspot.pe%2F2016%2F10%2Ffundamentos-basicos-de-html5.html&amp;src=sdkpreparse" target="_blank">Compartir</a></div>
+<div>
+<a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;"><img src="https://3.bp.blogspot.com/-1dcw6IXgJ4I/WAm2bzzz5HI/AAAAAAAAAFM/4qEy9z3TnCYjbVpICG8QHs2eGqJS2lFoQCLcB/s1600/fa.PNG" /></a><br />
+<span style="font-weight: bold;">GRUPO DE FACEBOOK:&nbsp;</span><a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;">&lt;codeAB&gt; programación y más</a><br />
+<br />
+<div style="text-align: center;">
+<span style="color: #38761d;"><a href="http://goodcodeab.blogspot.pe/2016/10/introduccion-html5.html">&lt;---Atriculo anterior</a> </span>- &nbsp;- &nbsp; - <span style="color: #0b5394;"><a href="http://goodcodeab.blogspot.pe/2016/10/fundamentos-basicos-de-html5-parte-2.html">Siguiente articulo---&gt;</a></span></div>
+</div>
+<div class=" fb_reset" id="fb-root" style="background: none rgb(249, 249, 249); border-spacing: 0px; border: 0px; cursor: auto; direction: ltr; font-family: &quot;lucida grande&quot;, tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 1; list-style: none; margin: 0px; outline: none; overflow: visible; padding: 0px; text-shadow: none; visibility: visible;">
+<div style="border: none; height: 0px; list-style: none; margin: 0px; outline: none; overflow: hidden; padding: 0px; position: absolute; top: -10000px; width: 0px;">
+<div style="border: none; list-style: none; margin: 0px; outline: none; padding: 0px;">
+<iframe allowfullscreen="true" allowtransparency="true" aria-hidden="true" frameborder="0" id="fb_xdm_frame_https" name="fb_xdm_frame_https" scrolling="no" src="https://staticxx.facebook.com/connect/xd_arbiter/r/fTmIQU3LxvB.js?version=42#channel=f3b32a4fc213958&amp;origin=https%3A%2F%2Fgoodcodeab.blogspot.pe" style="border-style: none; border-width: initial;" tabindex="-1" title="Facebook Cross Domain Communication Frame"></iframe></div>
+<div>
+<br /></div>
+</div>
+<div style="border: none; height: 0px; list-style: none; margin: 0px; outline: none; overflow: hidden; padding: 0px; position: absolute; top: -10000px; width: 0px;">
+<div style="border: none; list-style: none; margin: 0px; outline: none; padding: 0px;">
+</div>
+</div>
+</div>
+</div>
+</div>

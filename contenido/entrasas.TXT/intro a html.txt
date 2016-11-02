@@ -1,0 +1,40 @@
+<h4 style="text-align: justify;">
+HTML a pasado de ser solamente un lenguaje de etiquetas a convertirse en todo un concepto digital para el mundo de la web abarcando muchísimos temas, por ejemplo:&nbsp;</h4>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<center>
+<a href="https://3.bp.blogspot.com/-KnC-YWzRST4/WAmwaJIEc4I/AAAAAAAAAE4/UtE6p0p-upwbYJiSNAJwhnscU7pG5jeoQCLcB/s1600/HTM5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="251" src="https://3.bp.blogspot.com/-KnC-YWzRST4/WAmwaJIEc4I/AAAAAAAAAE4/UtE6p0p-upwbYJiSNAJwhnscU7pG5jeoQCLcB/s400/HTM5.jpg" width="400" /></a></center>
+<div>
+<br /></div>
+<h4 style="text-align: justify;">
+<b>LA SEMÁNTICA:</b> <span style="font-weight: normal;">Para&nbsp;HTML&nbsp;la semántica es muy importante, es por ello que a añadido nuevas etiquetas que cumplen funciones especificas (&lt;header&gt;,&lt;footer&gt;,&lt;article&gt;
+).</span></h4>
+<h4 style="text-align: justify;">
+<b>EL ALMACENAMIENTO:</b> <span style="font-weight: normal;">Tu sitios web serán muchísimo mas rápidos gracias al localStorage (almacenamiento local de &nbsp;HTML5). gracias al indexado de bases de datos, gracias a la aplicación cache de HTML5.</span></h4>
+<h4 style="text-align: justify;">
+<b>ACCESO A DISPOSITIVOS:</b><span style="font-weight: normal;"> HTML5 tiene acceso al GPS, WIFI, cámara, micros, acceso a contactos internos, etc.</span></h4>
+<h4 style="text-align: justify;">
+<b>MULTIMEDIA:</b>&nbsp;<span style="font-weight: normal;">Es la razón por el cual flash esta desapareciendo,&nbsp;HTML5&nbsp;te permite insertar audio y video.</span></h4>
+<h4 style="text-align: justify;">
+<b>SOPORTE A GRAFICOS Y EFECTOS:</b>&nbsp;Si, HTML5 <span style="font-weight: normal;">tiene soporte a gráficos y efectos dentro del navegador, imágenes en 3D, efectos impresionantes pueden estar corriendo nativa-mente en el navegador y así no causar aburrimiento al usuario.&nbsp;</span></h4>
+<h4 style="text-align: justify;">
+<b>COMPATIBILIDAD CON CSS3:</b><span style="font-weight: normal;"> &nbsp;Ya que css3 trae nuevos componentes, nuevos atributos, nuevos métodos. HTML5&nbsp; es capas de&nbsp;comprenderlos correctamente haciendo que tu web sea mas dinámica y visual.</span></h4>
+<h4>
+<br />Todos estos elementos que compone&nbsp;HTML5&nbsp;los iremos conociendo a lo largo de estos días, para no perderte ninguno únete a nosotros en el grupo de facebook que allí se estara subiendo todos los artículos de este blog.</h4>
+<div id="fb-root">
+</div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8&appId=496202310584967";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<br />
+<div class="fb-share-button" data-href="http://goodcodeab.blogspot.pe/2016/10/introduccion-html5.html" data-layout="button_count" data-mobile-iframe="true" data-size="small">
+<a class="fb-xfbml-parse-ignore" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fgoodcodeab.blogspot.pe%2F2016%2F10%2Fintroduccion-html5.html&amp;src=sdkpreparse" target="_blank">Compartir</a></div>
+<h4>
+<a href="https://www.facebook.com/groups/1743114325973200/?fref=ts"><img src="https://3.bp.blogspot.com/-1dcw6IXgJ4I/WAm2bzzz5HI/AAAAAAAAAFM/4qEy9z3TnCYjbVpICG8QHs2eGqJS2lFoQCLcB/s1600/fa.PNG" /></a><br />GRUPO DE FACEBOOK:&nbsp;<a href="https://www.facebook.com/groups/1743114325973200/?fref=ts">&lt;codeAB&gt; programación y más</a></h4>
+<div style="text-align: right;">
+<a href="http://goodcodeab.blogspot.pe/2016/10/fundamentos-basicos-de-html5.html">Siguiente articulo---&gt;</a></div>

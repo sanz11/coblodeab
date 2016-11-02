@@ -1,0 +1,119 @@
+<h4>
+Hola amigos lo que haremos hoy en este artículo&nbsp;es aprender las etiquetas con formato.</h4>
+<div>
+<b>ETIQUETA CON FORMATO:</b><br />
+Algunas etiquetas de HTML5 nos devuelven un formato especifico entre ellos tenemos el</div>
+<div>
+formato<b>&nbsp;</b>NEGRITA, CURSIVA, TACHADO, SUBRAYADO, SUPERÍNDICE, entre otros. Pero ojo HTML no es un lenguaje de estilos.<br />
+<br />
+<br />
+<br />
+Vamos a conocer algunas de estas etiquetas.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-UUnceFFkMQI/WBoEyBRvkVI/AAAAAAAAAII/BU5ysZGgNYkMcfvvjLt2r4hx7g5HezX4ACLcB/s1600/Captura.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-UUnceFFkMQI/WBoEyBRvkVI/AAAAAAAAAII/BU5ysZGgNYkMcfvvjLt2r4hx7g5HezX4ACLcB/s1600/Captura.PNG" /></a></div>
+<br /></div>
+<div>
+<span style="color: #38761d;"><b>&lt;b&gt;&lt;/b&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b></span><span style="color: #38761d;"><span style="color: #666666;"><b>----&gt;</b></span><b style="color: #666666;"> </b>Es una etiqueta que devuelve texto con <b>formato negrita.</b></span><br />
+<span style="color: #38761d; font-weight: bold;">&lt;i&gt;&lt;/i&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span style="color: #38761d;">----&gt; Es una etiqueta que devuelve texto con <i><b>formato cursiva</b>.</i></span><br />
+<span style="color: #38761d; font-weight: bold;">&lt;mark&gt;&lt;/mark&gt;&nbsp;</span><span style="color: #38761d;">----&gt; Es una etiqueta que devuelve <b style="background-color: yellow;">texto con formato marcado o resaltado.</b></span><br />
+<span style="color: #38761d; font-weight: bold;">&lt;del&gt;&lt;/del&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="color: #38761d;">----&gt; Es una etiqueta que devuelve texto con<b> <strike>formato tachado o eliminado</strike>.</b></span><br />
+<span style="color: #38761d; font-weight: bold;">&lt;ins&gt;&lt;/ins&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="color: #38761d;">----&gt; Es una etiqueta que devuelve texto con<b> <u>formato subrayado</u>.</b></span><br />
+<span style="color: #38761d; font-weight: bold;">&lt;sub&gt;&lt;/sub&gt; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="color: #38761d;">----&gt; Devuelve texto con con base(YA LO VEREMOS EN EL EJEMPLO)</span><span style="color: #38761d;">.</span><br />
+<b><span style="color: #38761d;">&lt;sup&gt;&lt;/sup&gt; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="color: #38761d;">----&gt;&nbsp;</span></b>Devuelve texto con con exponente(YA LO VEREMOS EN EL EJEMPLO).<br />
+<span style="color: #38761d; font-weight: bold;">&lt;strong&gt;&lt;/strong&gt;&nbsp;</span><span style="color: #38761d;">----&gt; Es una etiqueta también&nbsp;devuelve<b> texto en negrita .</b></span><br />
+<span style="color: #38761d; font-weight: bold;">&lt;em&gt;&lt;/em&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="color: #38761d;">----&gt; Esta etiqueta hace referencia a<b>&nbsp;</b></span><b><i>énfasis</i></b></div>
+<div>
+<br /></div>
+<div>
+De todas estas etiquetas algunas ya no se usan, estas se dejaron de usar ya que ahora algunos de estos formatos que s ele da al los textos se le puede hacer con CSS.<br />
+<br /></div>
+<div>
+<b>DIFERENCIA&nbsp;ENTRE ETIQUETA &lt;b&gt; Y &lt;strong&gt;</b></div>
+<div>
+<br />
+Entre estas etiquetas no hay diferencia visual pero si hay diferencia semántica, la etiqueta &lt;b&gt; solo te devuelve un formato, la etiqueta &lt;strong&gt; significa un texto fuerte o un texto importante.<br />
+<br />
+<div>
+<b>DIFERENCIA&nbsp;ENTRE ETIQUETA &lt;i&gt; Y &lt;em&gt;</b></div>
+<div>
+<br />
+Entre estas etiquetas visualmente también te devuelven lo mismo pero sistemáticamente no son lo mismo, la etiqueta &lt;i&gt; solo te devuelve un texto con formato cursiva, mientras que la etiqueta &lt;em&gt; un texto en énfasis un texto que sobresale de los demás.<br />
+<br />
+Para aprovechar este tema también aprenderemos las etiquetas de Listas.<br />
+<br />
+Existen dos tipos de listas en HTML5 y para añadir listas en html se usan 3 etiquetas una etiqueta para cada tipo de lista y la otra es para definir los elementos dentro de la lista .<br />
+<br />
+LISTAS ORDENADAS: Se caracterizan por llevar números sucesivos delante de cada elemento para ello se usa la etiqueta &lt;ol&gt;&lt;/ol&gt;<br />
+<br />
+LISTAS DESORDENADAS: estas solo llevan una viñeta delante de cada elemento, para esta lista se usa la etiqueta &lt;ul&gt;.&lt;/ul&gt;<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://2.bp.blogspot.com/-qjPbdOX6Ngk/WBoKmeT4HII/AAAAAAAAAIY/4jJGMj76ZqAGXgZhtwagia97zdPevq8sgCLcB/s1600/k.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://2.bp.blogspot.com/-qjPbdOX6Ngk/WBoKmeT4HII/AAAAAAAAAIY/4jJGMj76ZqAGXgZhtwagia97zdPevq8sgCLcB/s320/k.PNG" width="303" /></a></div>
+<br />
+<br />
+<br />
+Códigos:<br />
+<b>Primera Imagen: ETIQUETAS CON FORMATO</b><br />
+<br /></div>
+</div>
+<div>
+<span style="color: #0b5394;">&lt;!DOCTYPE html&gt;</span><br />
+<span style="color: #0b5394;">&lt;html&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;head&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;title&gt;mi primera web&lt;/title&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;/head&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;body&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;ETIQUETAS CON FORMATO&lt;/h1&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;b&gt;Hola yo soy negrita&lt;/b&gt; &lt;br&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;i&gt;Hola yo soy cursiva o italic&lt;/i&gt; &lt;br&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;mark&gt;yo estoy Resaltado&lt;/mark&gt;&lt;br&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;del&gt;Yo estoy tachado&lt;/del&gt;&lt;br&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;ins&gt;Estoy Subrayado&lt;/ins&gt; &lt;br&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; 2&lt;sub&gt;3&lt;/sub&gt;&lt;br&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; 5&lt;sup&gt;4&lt;/sup&gt; &lt;br&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;strong&gt;FUERTE&lt;/strong&gt;&lt;br&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;em&gt;RESALTAR&lt;/em&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;/body&gt;</span><br />
+<span style="color: #0b5394;">&lt;/html&gt;</span><br />
+<span style="color: #0b5394;"><br /></span>
+<b>Segunda Imagen: LISTAS</b><br />
+<b><br /></b>
+<span style="color: #0b5394;">&lt;!DOCTYPE html&gt;</span><br />
+<span style="color: #0b5394;">&lt;html&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;head&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;title&gt;mi primera web&lt;/title&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;/head&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;body&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;LISTA ORDENADA&lt;/h1&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;ol&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Pato&lt;/li&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Perro&lt;/li&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Oso&lt;/li&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Silla&lt;/li&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Pluma&lt;/li&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;/ol&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;LISTA DESORDENADA&lt;/h1&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;ul&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;li&gt;Manzana&lt;/li&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;li&gt;Kiwi&lt;/li&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;li&gt;Naranja&lt;/li&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;li&gt;Melón&lt;/li&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;/ul&gt;</span><br />
+<span style="color: #0b5394;">&nbsp; &nbsp; &lt;/body&gt;</span><br />
+<span style="color: #0b5394;"></span><br />
+<span style="color: #0b5394;">&lt;/html&gt;</span></div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<h4 style="background-color: #f9f9f9; border: none; color: #232323; font-family: arial, helvetica, sans-serif; font-size: 14px; font-stretch: normal; font-weight: normal; line-height: 1.125em; list-style: none; margin: 0px 0px 1.125em; outline: none; padding: 0px;">
+Bueno eso es todo sobre este tema espero que te aya gustado el artículo y ya saben para no perderte el siguiente únete a nosotros en el grupo de facebook que allí se estará subiendo todos los artículos de esta página web.</h4>
+<a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;"><img src="https://3.bp.blogspot.com/-1dcw6IXgJ4I/WAm2bzzz5HI/AAAAAAAAAFM/4qEy9z3TnCYjbVpICG8QHs2eGqJS2lFoQCLcB/s1600/fa.PNG" /></a><br />
+<span style="font-weight: bold;">GRUPO DE FACEBOOK:&nbsp;</span><a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;">&lt;codeAB&gt; programación y más</a><br />
+<br />
+<div style="text-align: center;">
+<span style="color: #38761d;"><a href="http://goodcodeab.blogspot.pe/2016/10/fundamentos-basicos-de-html5-parte-3.html" target="_blank">&lt;--- artículo anterior</a></span> &nbsp;- &nbsp; - &nbsp;- &nbsp;<span style="color: #0b5394;">Siguiente artículo---&gt;</span></div>
+<br />

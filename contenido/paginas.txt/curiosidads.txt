@@ -1,0 +1,16 @@
+<table border="0px"> <!-- Lo cambiaremos por CSS -->
+            <tbody>
+<tr>
+                <td><div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-JL4-KwS5J9k/WACS4ra1mKI/AAAAAAAAAEQ/Qe3OYyHno2sI0rsPwJvYTfL9QdvTrr6VgCPcB/s1600/13907020_684708121681244_665758525036147339_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://3.bp.blogspot.com/-JL4-KwS5J9k/WACS4ra1mKI/AAAAAAAAAEQ/Qe3OYyHno2sI0rsPwJvYTfL9QdvTrr6VgCPcB/s320/13907020_684708121681244_665758525036147339_n.jpg" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: left;">
+</div>
+<br /></td>
+                <td><div style="border: none; color: #232323; font-size: 15px;">
+<span style="color: #444444;"><span style="font-family: &quot;verdana&quot; , sans-serif;">Mira estos &nbsp;25 memes sobre programación sacados de Facebook, si el primer meme te hace reír espera ver el resto.</span></span><br />
+<div class="separator" style="clear: both; text-align: left;">
+<a href="http://goodcodeab.blogspot.pe/2016/10/25-memes-sobre-programacion.html"><img border="0" src="https://2.bp.blogspot.com/--bK7HzrfoFk/V_i1BRMJ84I/AAAAAAAAACI/n_x1IeDUmXMLf-BLc1k0WsWbe3YJQD_hgCLcB/s1600/860.png" /></a></div>
+<span style="color: #444444;"><span style="font-family: &quot;verdana&quot; , sans-serif;"><br /></span></span></div>
+</td>
+            </tr>
+</tbody></table>

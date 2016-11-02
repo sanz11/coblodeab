@@ -1,0 +1,14 @@
+<table border="0px"> <!-- Lo cambiaremos por CSS -->
+            <tbody>
+<tr>
+                <td><div class="separator" style="clear: both; text-align: left;">
+<a href="https://2.bp.blogspot.com/-UhaabULqC_o/V_iuuYgE1hI/AAAAAAAAAB8/R1f1H5MWukwapHDlESo3mhlXD03DYClPwCEw/s1600/base_ismage.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="178" src="https://2.bp.blogspot.com/-UhaabULqC_o/V_iuuYgE1hI/AAAAAAAAAB8/R1f1H5MWukwapHDlESo3mhlXD03DYClPwCEw/s320/base_ismage.jpg" width="320" /></a></div>
+<br /></td>
+                <td><div style="border: none; color: #232323; font-size: 15px;">
+<span style="color: #444444;"><span style="font-family: &quot;verdana&quot; , sans-serif;">Mark Zuckerberg reveló durante su conferencia de desarrolladores como diferentes personas podrían visitarse en un entorno virtual y compartiendo diferentes esferas se podría viajar a diferentes partes del mundo juntos...</span></span><br />
+<div class="separator" style="clear: both; text-align: left;">
+<a href="http://goodcodeab.blogspot.pe/2016/10/facebook-en-realidad-virtual.html"><img border="0" src="https://2.bp.blogspot.com/--bK7HzrfoFk/V_i1BRMJ84I/AAAAAAAAACI/n_x1IeDUmXMLf-BLc1k0WsWbe3YJQD_hgCLcB/s1600/860.png" /></a></div>
+<span style="color: #444444;"><span style="font-family: &quot;verdana&quot; , sans-serif;"><br /></span></span></div>
+</td>
+            </tr>
+</tbody></table>
