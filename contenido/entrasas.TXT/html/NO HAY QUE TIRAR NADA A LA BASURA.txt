@@ -1,0 +1,38 @@
+Se puede amar, o se puede odiar, pero no se puede negar que HTML 4 es el formato de
+ marcado más exitoso de la historia. HTML5 se basa en ese éxito. No es necesario volver
+ a aprender cosas que ya se conocen. Si la aplicación web que funcionaba ayer en HTML
+ 4, hoy funcionará en HTML5.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://2.bp.blogspot.com/-jF6XyNApy7M/WCwhsrIHMCI/AAAAAAAAAIo/1-_flrAwQucO6FRo1TvM1y8nLSiOwQ2awCLcB/s1600/h.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-jF6XyNApy7M/WCwhsrIHMCI/AAAAAAAAAIo/1-_flrAwQucO6FRo1TvM1y8nLSiOwQ2awCLcB/s1600/h.png" /></a></div>
+Ahora, si lo que se desea es mejorar las aplicaciones web, este es el lugar correcto. He
+ aquí un ejemplo concreto: HTML5 soporta todos los controles de formulario de HTML 4,
+ pero también incluye nuevos controles de entrada. Algunos de estos son funcionalidades
+ esperadas durante mucho tiempo, como<i><b> reguladores y selectores de fecha</b></i>, mientras que
+ otros son más sutiles. Por ejemplo, el tipo de entrada de correo electrónico se parece a
+ un cuadro de texto, pero los navegadores móviles personalizar su teclado en pantalla
+ para que sea más fácil de escribir direcciones de correo electrónico. Los navegadores
+ más antiguos que no son compatibles con el tipo de entrada de correo electrónico será
+ tratado como un campo de texto normal, y el formulario sigue funcionando sin ningún
+ cambio en las etiquetas o hacks de JavaScript.<br />
+<br />
+<h4>
+<b>&nbsp;FÁCIL DE COMENZAR</b></h4>
+&nbsp;"Actualizar" a HTML5 puede ser tan simple como cambiar su tipo de documento. El tipo
+ de documento debe estar en la primera línea de cada página HTML. Las versiones
+ anteriores de HTML definen un montón de doctypes, y elegir el más adecuado puede ser
+ difícil. En HTML5, sólo hay un tipo de documento:<br />
+<br />
+<span style="color: #0b5394;">&lt;!DOCTYPE html&gt;</span><br />
+<br />
+&nbsp;La actualización al doctype HTML5 no rompe el marcado existente, ya que los elementos
+ obsoletos previamente definidas en HTML 4 todavía se representará en HTML5. Pero le
+ permitirá usar (y validar) nuevos elementos semánticos como <span style="color: #073763;">&lt;article&gt;,&lt;section&gt;,&lt;header&gt; y &lt;footer&gt;.</span><br />
+<article><br /></article><h4>
+&nbsp;¡YA FUNCIONA!</h4>
+<article>&nbsp;Si se quiere dibujar en un lienzo, reproducir vídeo, diseñar mejores formas, o construir
+ aplicaciones web que funcionan offline, nos encontramos con que HTML5 ya está bien
+ soportado. Firefox, Safari, Chrome, Opera y los navegadores móviles ya son compatibles
+ con canvas, video, la geolocalización, el almacenamiento local, y más funcionalidades.
+ Incluso Microsoft (raramente conocido por el soporte de estándares) soporta la mayoría
+ de las características de HTML5 en Internet Explorer 9.</article><article><br /></article><article>por:ARKAITZ GARRO:</article><article>http://www.arkaitzgarro.com/html5/[13/07/2015]</article>
