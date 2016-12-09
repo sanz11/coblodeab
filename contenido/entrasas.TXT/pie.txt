@@ -1,0 +1,13 @@
+
+<br />
+<br />
+<br />
+<div style="text-align: center;">
+<span style="color: #0b5394;"><a href="http://goodcodeab.blogspot.pe/2016/11/html5-nuevas-etiquetas-semanticas.html" target="_blank">&lt;--- artículo anterior</a></span> &nbsp;- &nbsp; - &nbsp;- &nbsp;<span style="color: #0b5394;">Siguiente artículo---&gt;</span></div>
+<br />
+<br />
+<h4 style="background-color: #f9f9f9; border: none; color: #232323; font-family: arial, helvetica, sans-serif; font-size: 14px; font-stretch: normal; font-weight: normal; line-height: 1.125em; list-style: none; margin: 0px 0px 1.125em; outline: none; padding: 0px;">
+Espero que te aya gustado el artículo y ya saben para no perderte el siguiente únete a nosotros en el grupo de facebook que allí se está subiendo todos los artículos de esta página web.</h4>
+<a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;"><img src="https://3.bp.blogspot.com/-1dcw6IXgJ4I/WAm2bzzz5HI/AAAAAAAAAFM/4qEy9z3TnCYjbVpICG8QHs2eGqJS2lFoQCLcB/s1600/fa.PNG" /></a><br />
+<span style="font-weight: bold;">GRUPO DE FACEBOOK:&nbsp;</span><a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;">&lt;codeAB&gt; programación y más</a><br />
+<br />

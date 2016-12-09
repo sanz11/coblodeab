@@ -1,0 +1,48 @@
+<h2 style="text-align: center;">
+<span style="color: #0b5394; font-family: &quot;georgia&quot; , &quot;times new roman&quot; , serif;">¿Qué es PHP?</span></h2>
+<div>
+<h4>
+<span style="color: #444444; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Es un lenguaje de programación de código&nbsp;abierto, multiplataforma, muy conocido, especialmente adecuado para el desarrollo web y que puede ser introducido en HTML.</span></h4>
+<h4>
+<span style="color: #444444; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Lo mejor de utilizar PHP es su extrema simplicidad para el principiante, pero a su vez ofrece muchas características avanzadas para los programadores profesionales.</span></h4>
+</div>
+<h4>
+<span style="color: #444444; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Es un lenguaje de programación&nbsp;que esta en la mayoría&nbsp;de los servidores web en la actualidad, es un lenguaje bastante simple pero no por eso no podemos desarrollar&nbsp;aplicaciones&nbsp;complejas al contrario ofrece muchas características&nbsp;avanzadas.</span></h4>
+<div>
+<h2 style="text-align: center;">
+<span style="color: #0b5394; font-family: &quot;georgia&quot; , &quot;times new roman&quot; , serif;">¿Qué vamos aprender?</span></h2>
+</div>
+<b style="color: #073763; font-family: Verdana, sans-serif;"><i>&lt;&gt;&nbsp;</i></b><span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;">Conceptos básicos</span></span><br />
+<b style="color: #073763; font-family: Verdana, sans-serif;"><i>&lt;&gt;&nbsp;</i></b><span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;">Variables</span></span><br />
+<span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #073763;"><b><i>&lt;&gt;&nbsp;</i></b></span><span style="color: #3d85c6;">Constantes</span></span><br />
+<b style="color: #073763; font-family: Verdana, sans-serif;"><i>&lt;&gt;&nbsp;</i></b><span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;">Operadores(Aritméticos, lógicos, etc.)</span></span><br />
+<b style="color: #073763; font-family: Verdana, sans-serif;"><i>&lt;&gt;&nbsp;</i></b><span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;">Estructuras secuenciales</span></span><br />
+<b style="color: #073763; font-family: Verdana, sans-serif;"><i>&lt;&gt;&nbsp;</i></b><span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;">Ciclos</span></span><br />
+<b style="color: #073763; font-family: Verdana, sans-serif;"><i>&lt;&gt;&nbsp;</i></b><span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;">Envío de formularios</span></span><br />
+<b style="color: #073763; font-family: Verdana, sans-serif;"><i>&lt;&gt;&nbsp;</i></b><span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;">Conexión a bases de datos con mysqli y PDO.</span></span><br />
+<b style="color: #073763; font-family: Verdana, sans-serif;"><i>&lt;&gt;&nbsp;</i></b><span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;">y mucho mas.</span></span><br />
+<span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;"><br /></span></span>
+<br />
+<h2 style="text-align: center;">
+<span style="color: #0b5394; font-family: &quot;georgia&quot; , &quot;times new roman&quot; , serif;">¿Qué vamos a necesitar?</span></h2>
+<div>
+<span style="color: #444444; font-family: &quot;georgia&quot; , &quot;times new roman&quot; , serif;">Las siguientes herramientas los veremos en el siguiente artículo (Instalación, configuración, etc.)</span></div>
+<div>
+<span style="color: #0b5394; font-family: &quot;georgia&quot; , &quot;times new roman&quot; , serif;"><b style="color: #073763; font-family: Verdana, sans-serif;"><i>&lt;&gt;&nbsp;</i></b><span style="color: black; font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;">Servidor local (Wamp o Xamp)</span></span></span><br />
+<span style="color: #0b5394; font-family: &quot;georgia&quot; , &quot;times new roman&quot; , serif;"><b style="color: #073763; font-family: Verdana, sans-serif;"><i>&lt;&gt;&nbsp;</i></b><span style="color: black; font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;">Editor de código o un IDE (Brackets, Sublime, etc)</span></span></span><br />
+<span style="color: #0b5394; font-family: &quot;georgia&quot; , &quot;times new roman&quot; , serif;"><span style="color: black; font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #073763;"><b><i>&lt;&gt; </i></b></span><span style="color: #3d85c6;">Navegador web.</span></span></span><br />
+<span style="color: #0b5394; font-family: &quot;georgia&quot; , &quot;times new roman&quot; , serif;"><span style="color: black; font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;"><br /></span></span></span>
+</div>
+<span style="font-family: &quot;verdana&quot; , sans-serif;"><span style="color: #3d85c6;"><br /></span></span>
+
+<br />
+<br />
+<div style="text-align: center;">
+&nbsp;- &nbsp;- &nbsp;<span style="color: #0b5394;">Siguiente artículo---&gt;</span></div>
+<br />
+<br />
+<h4 style="background-color: #f9f9f9; border: none; color: #232323; font-family: arial, helvetica, sans-serif; font-size: 14px; font-stretch: normal; font-weight: normal; line-height: 1.125em; list-style: none; margin: 0px 0px 1.125em; outline: none; padding: 0px;">
+Espero que te aya gustado el artículo y ya saben para no perderte el siguiente únete a nosotros en el grupo de facebook que allí se está subiendo todos los artículos de esta página web.</h4>
+<a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;"><img src="https://3.bp.blogspot.com/-1dcw6IXgJ4I/WAm2bzzz5HI/AAAAAAAAAFM/4qEy9z3TnCYjbVpICG8QHs2eGqJS2lFoQCLcB/s1600/fa.PNG" /></a><br />
+<span style="font-weight: bold;">GRUPO DE FACEBOOK:&nbsp;</span><a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;">&lt;codeAB&gt; programación y más</a><br />
+<br />
