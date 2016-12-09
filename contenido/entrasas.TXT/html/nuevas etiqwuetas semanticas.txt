@@ -1,0 +1,79 @@
+<br />
+<h4 style="background-color: #f9f9f9; border: none; color: #232323; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-stretch: normal; font-weight: normal; line-height: 1.125em; list-style: none; margin: 0px 0px 1.125em; outline: none; padding: 0px;">
+Hola amigos lo que haremos hoy en este artículo&nbsp;es aprender un poco de teoría sobre la estructura de HTML5 y en el siguiente artículo haremos un poco de practica no te pierdas.</h4>
+En 2004, Ian Hickson, el autor de la especificación de HTML5, analizó 1.000.000.000 de<br />
+páginas web utilizando el motor de Google, intentando identificar la manera en la que la<br />
+web real estaba construida. Uno de los resultados de este análisis, fue la publicación de<br />
+una lista con los nombres de clases más utilizados. Este estudio revela que los<br />
+desarrolladores utilizan clases o IDs comunes para estructurar los documentos. Esto<br />
+llevó a considerar que quizás fuese una buena idea crear etiquetas concretas para<br />
+reflejar estas estructuras.<br />
+Este tipo de etiquetas que componen la web semántica nos sirven para que cualquier<br />
+mecanismo automático (un navegador, un motor de búsqueda, un lector de feeds...) que<br />
+lea un sitio web sepa con exactitud qué partes de su contenido corresponden a cada una<br />
+de las partes típicas de un sitio. Observando esas etiquetas semánticas estructurales,<br />
+cualquier sistema podrá procesar la página y saber cómo está estructurada. Veamos<br />
+algunas de estas etiquetas que introduce HTML5 en este sentido.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-0s9zQPQmqmM/WDAvW7rbuZI/AAAAAAAAAI4/Vlh9mVZiY5cme2XYg6NJaWhsgFbaP__qgCLcB/s1600/CAP%2B2.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-0s9zQPQmqmM/WDAvW7rbuZI/AAAAAAAAAI4/Vlh9mVZiY5cme2XYg6NJaWhsgFbaP__qgCLcB/s1600/CAP%2B2.PNG" /></a></div>
+<br />
+<br />
+<span style="color: #0b5394;"><b>&lt;section&gt;&lt;/section&gt;</b></span>: se utiliza para representar una sección "general" dentro de<br />
+un documento o aplicación, como un capítulo de un libro. Puede contener<br />
+subsecciones y si lo acompañamos de h1-h6 podemos estructurar mejor toda la<br />
+página creando jerarquías del contenido, algo muy favorable para el buen<br />
+posicionamiento web.<br />
+<br />
+<span style="color: #0b5394;"><b>&lt;article&gt;&lt;/article&gt;</b></span>: representa un componente de una página que consiste en<br />
+una composición autónoma en un documento, página, aplicación, o sitio web con la<br />
+intención de que pueda ser reutilizado y repetido. Podría utilizarse en los artículos<br />
+de los foros, una revista o el artículo de periódico, una entrada de un blog, un<br />
+comentario escrito por un usuario, un widget interactivo o cualquier otro artículo<br />
+independiente de contenido. Cuando los elementos de &lt;article&gt; son anidados, los<br />
+elementos interiores representan los artículos que en principio son relacionados con<br />
+el contenido del artículo externo. Por ejemplo, un artículo de un blog que permite<br />
+comentarios de usuario, dichos comentarios se podrían representar con &lt;article&gt;.<br />
+<br />
+<span style="color: #0b5394;"><b>&lt;aside&gt;&lt;/aside&gt;</b></span>: representa una sección de la página que abarca un contenido<br />
+relacionado con el contenido que lo rodea, por lo que se le puede considerar un<br />
+contenido independiente. Este elemento puede utilizarse para efectos tipográficos,<br />
+barras laterales, elementos publicitarios, para grupos de elementos de la<br />
+navegación, u otro contenido que se considere separado del contenido principal de<br />
+la página.<br />
+<br />
+<span style="color: #0b5394;"><b>&lt;header&gt;&lt;/header&gt;</b>:</span> representa un grupo de artículos introductorios o de<br />
+navegación. Está destinado a contener por lo general la cabecera de la sección (un<br />
+elemento h1-h6 o un elemento hgroup), pero no es necesario.<br />
+<br />
+<span style="color: #0b5394;"><b>&lt;nav&gt;&lt;/nav&gt;:</b></span> representa una sección de una página que enlaza a otras páginas o a<br />
+otras partes dentro de la página. No todos los grupos de enlaces en una página<br />
+necesita estar en un elemento nav, sólo las secciones que constan de bloques de<br />
+navegación principales son apropiados para el elemento de navegación.<br />
+<br />
+<span style="color: #0b5394;"><b>&lt;footer&gt;&lt;/footer&gt;:</b></span> representa el pie de una sección, con información acerca de la<br />
+página/sección que poco tiene que ver con el contenido de la página, como el autor,<br />
+el copyright o el año.<br />
+<br />
+<b><span style="color: #0b5394;">&lt;hgroup&gt;&lt;/hgroup&gt;</span>:</b> representa el encabezado de una sección. El elemento se utiliza<br />
+para agrupar un conjunto de elementos h1-h6 cuando el título tiene varios niveles,<br />
+tales como subtítulos o títulos alternativos.<br />
+<br />
+<b><span style="color: #0b5394;">&lt;time&gt;</span>:</b> representa o bien una hora (en formato de 24 horas), o una fecha precisa<br />
+en el calendario gregoriano (en formato ISO), opcionalmente con un tiempo y un<br />
+desplazamiento de zona horaria.<br />
+<br />
+<br />
+<br />
+<article><br /></article><article>POR: ARKAITZ GARRO:</article><article>http://www.arkaitzgarro.com</article><article><br /></article><article><br /></article>
+
+<br />
+<div style="text-align: center;">
+<span style="color: #38761d;"><a href="http://goodcodeab.blogspot.pe/2016/11/no-hay-que-tirar-nada-la-basura.html" target="_blank">&lt;--- artículo anterior</a></span> &nbsp;- &nbsp; - &nbsp;- &nbsp;<span style="color: #0b5394;">Siguiente artículo---&gt;</span></div>
+<br />
+<br />
+<h4 style="background-color: #f9f9f9; border: none; color: #232323; font-family: arial, helvetica, sans-serif; font-size: 14px; font-stretch: normal; font-weight: normal; line-height: 1.125em; list-style: none; margin: 0px 0px 1.125em; outline: none; padding: 0px;">
+Bueno eso es todo sobre este tema espero que te aya gustado el artículo y ya saben para no perderte el siguiente únete a nosotros en el grupo de facebook que allí se estará subiendo todos los artículos de esta página web.</h4>
+<a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;"><img src="https://3.bp.blogspot.com/-1dcw6IXgJ4I/WAm2bzzz5HI/AAAAAAAAAFM/4qEy9z3TnCYjbVpICG8QHs2eGqJS2lFoQCLcB/s1600/fa.PNG" /></a><br />
+<span style="font-weight: bold;">GRUPO DE FACEBOOK:&nbsp;</span><a href="https://www.facebook.com/groups/1743114325973200/?fref=ts" style="font-weight: bold;">&lt;codeAB&gt; programación y más</a><br />
+<br />
